@@ -4,17 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Guilherme's Profile</title>
-  <style>
-    h1, h3 {
-      text-align: center;
-    }
-    h3 {
-      text-align: left;
-    }
-    p {
-      text-align: center;
-    }
-  </style>
 </head>
 
 <body>
