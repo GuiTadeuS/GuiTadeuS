@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <h1>Hi 👋, I'm Guilherme</h1>
+  <h1 style="text-align: center">Hi 👋, I'm Guilherme</h1>
   <h3>A curious developer from Brazil!</h3>
   <h3>Back-end:</h3>
   <p>
