@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+  <div align="center">
   <h1 style="text-align: center">Hi 👋, I'm Guilherme</h1>
   <h3>A curious developer from Brazil!</h3>
   <h3>Back-end:</h3>
@@ -52,5 +53,6 @@
     <a href="https://www.linkedin.com/in/guilherme-tadeu-prog/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
     <a href="https://leetcode.com/eucalir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/></a>
   </p>
+  </div>
 </body>
 </html>
