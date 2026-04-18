@@ -3,16 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <style>
-    .icon-row {
-      display: flex;
-      flex-wrap: wrap;        /* allows wrapping if screen is small */
-      justify-content: center;
-      gap: 10px;              /* spacing between icons */
-    }
-  </style>
-
 </head>
 <body>
   <div align="center">
