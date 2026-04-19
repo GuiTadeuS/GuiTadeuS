@@ -37,7 +37,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-003545?style=flat-square&logo=mysql&logoColor=white)
 
 
-### Others:'
+### Others:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
